@@ -1,9 +1,9 @@
-
 # 2025
+
 ATPTech Core Talent Repo
 
-
 **Your tasks:**
+
 - Implement movement detection logic in `movement_detector.py`
 - Create a simple web app interface in `app.py` for uploading images/videos and viewing results
 - Deploy your solution (e.g., Streamlit Cloud or Hugging Face Spaces)
@@ -15,10 +15,9 @@ ATPTech Core Talent Repo
 
 1. Clone this repo
 2. Install dependencies:  
-    pip install -r requirements.txt
+   pip install -r requirements.txt
 3. Add or use sample frames in `test_images/`
-4. Run locally:  
-
+4. Run locally:
 
 ## 📂 Files
 
